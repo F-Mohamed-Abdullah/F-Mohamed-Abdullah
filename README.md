@@ -4,15 +4,17 @@
 <h1 align="center">Hi 👋, I'm Mohamed Abdullah</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f-mohamed-abdullah&label=Profile%20views&color=0e75b6&style=flat" alt="f-mohamed-abdullah" /> </p>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*IRFhWNqusUWbTsB1hQXhrQ.gif">
-- 🎯 I’m currently learning **Data Structures and Algorithm**
+- 🎓 I'm currently pursuing <b>Computer Science and Engineering</b> 
 
-- 💬 Ask me about **Java**
+- 🎯 I’m currently learning <b>Data Structures and Algorithm</b>
+
+- 💬 Ask me about <b>Java</b>
 
 - 📫 How to reach me **abdullahfakrudeen2020@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/f mohamed abdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="f mohamed abdullah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/f-mohamed-abdullah-67877a243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="f mohamed abdullah" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/fmohamedabdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fmohamedabdullah" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/f_mohamed_abdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="f_mohamed_abdullah" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/fmohamedabdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="fmohamedabdullah" height="30" width="40" /></a>
