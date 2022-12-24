@@ -26,4 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=F-Mohamed-Abdullah&show_icons=true&locale=en&layout=compact" alt="f-mohamed-abdullah" /></p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=F-Mohamed-Abdullah&theme=highcontrast)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=F-Mohamed-Abdullah&theme=great-gatsby)
