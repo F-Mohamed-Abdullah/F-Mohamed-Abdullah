@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/f-mohamed-abdullah-67877a243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="f mohamed abdullah" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/fmohamedabdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fmohamedabdullah" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/f___ma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fmohamedabdullah" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/f_mohamed_abdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="f_mohamed_abdullah" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/fmohamedabdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="fmohamedabdullah" height="30" width="40" /></a>
 </p>
