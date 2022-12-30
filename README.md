@@ -11,7 +11,7 @@
 
 - 💬 Let's talk about <b>Java🍵</b>
 
-- 📫 How to reach me **abdullahfakrudeen2020@gmail.com**
+- 📫 How to reach me <a href="mailto:abdullahfakrudeen2020@gmail.com">***CLICK HERE***</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
