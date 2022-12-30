@@ -9,7 +9,7 @@
 
 - 🎯 I’m currently learning <b>Data Structures and Algorithm</b>
 
-- 💬 Ask me about <b>Java</b>
+- 💬 Let's talk about <b>Java</b>
 
 - 📫 How to reach me **abdullahfakrudeen2020@gmail.com**
 
