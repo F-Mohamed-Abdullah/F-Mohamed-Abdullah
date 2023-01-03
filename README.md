@@ -29,3 +29,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=F-Mohamed-Abdullah&show_icons=true&locale=en&layout=compact" alt="f-mohamed-abdullah" /></p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+
