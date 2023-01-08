@@ -5,13 +5,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f-mohamed-abdullah&label=Profile%20views&color=0e75b6&style=flat" alt="f-mohamed-abdullah" /> </p>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*IRFhWNqusUWbTsB1hQXhrQ.gif">
 
-- 🎓 I'm currently pursuing <b>Computer Science and Engineering</b> 
+```java
+public class main{
+public static void main(String[] args){
 
-- 🎯 I’m currently learning <b>Data Structures and Algorithm</b>
+     String Name="F Mohamed Abdullah";
+     String Degree="Computer Science and engineering; //pursuing
+     String Learning="Data Structures and Algorithm";
+     
+     }
+  }
+  ```
 
-- 💬 Let's talk about <b>Java🍵</b>
-
-- 📫 How to reach me <a href="mailto:abdullahfakrudeen2020@gmail.com">***CLICK HERE***</a>
+## 📫 How to reach me <a href="mailto:abdullahfakrudeen2020@gmail.com">***CLICK HERE***</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
