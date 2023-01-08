@@ -2,8 +2,7 @@
 
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Mohamed Abdullah</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=f-mohamed-abdullah&label=Profile%20views&color=0e75b6&style=flat" alt="f-mohamed-abdullah" /> </p>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*IRFhWNqusUWbTsB1hQXhrQ.gif">
+
 
 ```java
 public class Student{
