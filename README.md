@@ -10,7 +10,7 @@ public class Student{
 public static void main(String[] args){
 
      String Name="F Mohamed Abdullah";
-     String Degree="Computer Science and engineering; //pursuing
+     String Degree="Computer Science and engineering"; //pursuing
      String Learning="Data Structures and Algorithm";
      
      }
