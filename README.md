@@ -9,9 +9,9 @@ public class Student{
 public static void main(String[] args){
 
      String Name="F Mohamed Abdullah";
-     int Age=19;
+     int Age=19; //Current Age
      String Degree="Computer Science and engineering"; //pursuing
-     String Learning="Data Structures and Algorithm";
+     String Currently_Learning="Data Structures and Algorithm";
      
      }
   }
