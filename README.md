@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*IRFhWNqusUWbTsB1hQXhrQ.gif">
 
 ```java
-public class main{
+public class Student{
 public static void main(String[] args){
 
      String Name="F Mohamed Abdullah";
