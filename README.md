@@ -4,6 +4,7 @@
 <h1 align="center">Hi <a href="https://www.linkedin.com/in/mohamed-abdullah-f-67877a243/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></a>, I'm Mohamed Abdullah</h1>
 
 
+
 ```java
 public class Student{
 public static void main(String[] args){
@@ -18,14 +19,14 @@ public static void main(String[] args){
   }
   ```
 
-## 📫 How to reach me <a href="mailto:abdullahfakrudeen2020@gmail.com">***CLICK HERE***</a>
+## 📫 How to reach me <br><br><a href="mailto:abdullahfakrudeen2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mohamed-abdullah-f-67877a243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="f mohamed abdullah" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/f___ma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fmohamedabdullah" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/f_mohamed_abdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="f_mohamed_abdullah" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/fmohamedabdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="fmohamedabdullah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohamed-abdullah-f-67877a243/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=black"></a>
+<a href="https://www.hackerrank.com/f___ma?hr_r=1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black"></a>
+<a href="https://www.leetcode.com/f_mohamed_abdullah"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+<a href="https://auth.geeksforgeeks.org/user/fmohamedabdullah"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=black"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
