@@ -19,7 +19,7 @@ public static void main(String[] args){
   }
   ```
 
-## 📫 How to reach me <br><br><a href="mailto:abdullahfakrudeen2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black"></a>
+## 📫 How to reach me <br><br><a href="mailto:abdullahfakrudeen2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
