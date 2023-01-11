@@ -23,7 +23,7 @@ public static void main(String[] args){
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mohamed-abdullah-f-67877a243/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=black"></a></p><br>
+<a href="https://www.linkedin.com/in/f-mohamed-abdullah/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=black"></a></p><br>
 <h3 align="left">Coding Platforms:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/f___ma?hr_r=1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black"></a>
