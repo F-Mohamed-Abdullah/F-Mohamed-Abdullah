@@ -33,11 +33,11 @@ public static void main(String[] args){
 
 <h3 align="left">Languages:</h3>
 <p align="left">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" >
-     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50">
+     <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50" >
+     <img src="https://cdn-icons-png.flaticon.com/512/3665/3665923.png" width="50">
+     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="50">
+     <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="50">
+     <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="50">
 
 
 
