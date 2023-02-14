@@ -29,7 +29,7 @@ public static void main(String[] args){
 <h3 align="left">Coding Platforms:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/f___ma?hr_r=1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black"></a>
-<a href="https://www.leetcode.com/f_mohamed_abdullah"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+<a href="https://www.leetcode.com/f-mohamed-abdullah"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
 <a href="https://auth.geeksforgeeks.org/user/fmohamedabdullah"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=black"></a>
 </p>
 
