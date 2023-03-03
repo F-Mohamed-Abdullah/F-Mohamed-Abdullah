@@ -7,7 +7,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=f-mohamed-abdullah&color=orange)
-```java
+```java[]
 public class Student{
 public static void main(String[] args){
 
@@ -20,6 +20,7 @@ public static void main(String[] args){
      }
   }
   ```
+ 
 
 ## 📫 How to reach me <br><br><a href="mailto:abdullahfakrudeen2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
