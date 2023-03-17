@@ -7,7 +7,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=f-mohamed-abdullah&color=orange)
-```java[]
+```java
 public class Student{
 public static void main(String[] args){
 
