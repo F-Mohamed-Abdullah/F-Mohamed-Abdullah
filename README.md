@@ -15,7 +15,7 @@ public static void main(String[] args){
      int Age=19; //Current Age
      final String Degree="Computer Science and engineering"; //pursuing
      String Currently_Learning="Data Structures and Algorithm";
-     final String Interested_in="Java";
+     String Interested_in="Java";
      
      }
   }
