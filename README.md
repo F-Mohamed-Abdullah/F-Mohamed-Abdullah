@@ -1,6 +1,6 @@
 <p align="center">
      <a href="https://www.linkedin.com/in/f-mohamed-abdullah/">
-          <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bc53e0e8-b578-4bee-89e1-053107b1a326/dexvexx-9ce8f963-389c-42a5-8887-78a97172e6b4.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JjNTNlMGU4LWI1NzgtNGJlZS04OWUxLTA1MzEwN2IxYTMyNlwvZGV4dmV4eC05Y2U4Zjk2My0zODljLTQyYTUtODg4Ny03OGE5NzE3MmU2YjQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.g0o2tbYK82gT_uMkrDhEJ228P-jmAxcZYn9oDVaplms" width="250"></a>
+          <img src="http://4.bp.blogspot.com/-ih61a6w8of8/Vaz-OH835MI/AAAAAAAABmo/oYI-NoC4WMk/s1600/animated_binary_pic_2_by_palaios.gif" width="500"</a>
 </p>
 
 <h1 align="center">Hi <a href="https://www.linkedin.com/in/mohamed-abdullah-f-67877a243/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></a>, I'm Mohamed Abdullah</h1>
