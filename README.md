@@ -45,11 +45,12 @@ public static void main(String[] args){
 
 
 </p>
+<hr>
 <p align="center">
      <a href="https://www.linkedin.com/in/f-mohamed-abdullah/">
           <img src="https://raw.githubusercontent.com/vhanla/vhanla/master/.gitassets/walkingmario.gif"></a>
 </p>
-
+<hr>
 <!--<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>-->
