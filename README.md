@@ -1,6 +1,6 @@
 <p align="center">
      <a href="https://www.linkedin.com/in/f-mohamed-abdullah/">
-          <img src="http://4.bp.blogspot.com/-ih61a6w8of8/Vaz-OH835MI/AAAAAAAABmo/oYI-NoC4WMk/s1600/animated_binary_pic_2_by_palaios.gif" width="500"</a>
+          <img src="/Pictures/header.gif"></a>
 </p>
 
 <h1 align="center">Hi <a href="https://www.linkedin.com/in/mohamed-abdullah-f-67877a243/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></a>, I'm Mohamed Abdullah</h1>
