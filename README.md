@@ -2,9 +2,9 @@
      <a href="https://www.linkedin.com/in/f-mohamed-abdullah/">
           <img src="/Pictures/github_header.gif"></a>
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h1 align="center">Hi <a href="https://www.linkedin.com/in/mohamed-abdullah-f-67877a243/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></a>, I'm Mohamed Abdullah
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=f-mohamed-abdullah&color=blue" alt="Abu" /></h1> </p>
 
 
