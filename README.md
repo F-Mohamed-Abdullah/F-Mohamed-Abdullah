@@ -1,5 +1,6 @@
-<p align="center">
-<img src="https://media.licdn.com/dms/image/D5616AQFnyjsSlR4gsg/profile-displaybackgroundimage-shrink_350_1400/0/1684041877137?e=1689811200&v=beta&t=8vh4qetoURIXqsSpmJkfGuw--FUZ3EabUT87DCKAJNI"></p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06FF00&center=true&width=435&lines=Hi%2C+I%E2%80%99m+Mohamed+Abdullah;Nice+to+meet+you+)](https://git.io/typing-svg)
+
 <h1 align="center">Hi <a href="https://www.linkedin.com/in/mohamed-abdullah-f-67877a243/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></a>, I'm Mohamed Abdullah
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=f-mohamed-abdullah&color=blue" alt="Abu" /></h1> </p>
