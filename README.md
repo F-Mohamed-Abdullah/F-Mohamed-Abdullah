@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06FF00&center=true&width=435&lines=Hi%2C+I%E2%80%99m+Mohamed+Abdullah;Nice+to+meet+you+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06FF00&center=true&width=435&lines=Hi%2C+I%E2%80%99m+Mohamed+Abdullah;Nice+to+meet+you+)](https://www.linkedin.com/in/f-mohamed-abdullah/)
 
 
 
