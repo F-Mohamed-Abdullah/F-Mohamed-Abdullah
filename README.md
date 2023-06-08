@@ -24,7 +24,7 @@ public static void main(String[] args){
 
 ## 📫 How to reach me <br><br><a href="mailto:abdullahfakrudeen2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-<h3 align="left">Connect with me<a href="https://emoji.gg/emoji/4458_inosuke_run"><img src="https://cdn3.emoji.gg/emojis/4458_inosuke_run.gif" width="50px" height="45px" alt="inosuke_run" ></a>:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/f-mohamed-abdullah/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=black"></a></p><br>
 <h3 align="left">Coding Platforms:</h3>
