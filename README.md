@@ -1,7 +1,4 @@
-<img src="https://github.com/f-mohamed-abdullah/f-mohamed-abdullah/blob/main/DSA_header.gif">
-
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06FF00&center=true&width=435&lines=+++++Hi%2C+I%E2%80%99m+Mohamed+Abdullah;Nice+to+meet+you+)](https://www.linkedin.com/in/f-mohamed-abdullah/)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=f-mohamed-abdullah&color=blue" alt="Abu" /></h1> </p>
 
