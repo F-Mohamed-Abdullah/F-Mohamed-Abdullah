@@ -9,7 +9,7 @@ package com.Abdullah.About_me;
 public class Student{
 public static void main(String[] args){
 
-     final String Name="F Mohamed Abdullah";
+     final String Name="Mohamed Abdullah";
      int Age=19; //Current Age
      final String Degree="Computer Science and engineering"; //pursuing
      String[] Learning={"Java","SpringBoot","DSA"};
