@@ -5,9 +5,7 @@
 
 
 ```java
-package com.Abdullah.About_me;
-
-public class Student{
+public class mohamed_abdullah{
 public static void main(String[] args){
 
      final String Name="Mohamed Abdullah";
