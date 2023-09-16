@@ -42,7 +42,7 @@ public static void main(String[] args){
 
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=f-mohamed-abdullah)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=f-mohamed-abdullah&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--<hr>
 <p align="center">
      <a href="https://www.linkedin.com/in/f-mohamed-abdullah/">
