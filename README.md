@@ -2,22 +2,7 @@
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=f-mohamed-abdullah&color=blue" alt="Abu" /></h1> </p>
-
-
-```java
-public class mohamed_abdullah{
-public static void main(String[] args){
-
-     final String Name="Mohamed Abdullah";
-     int Age=19; //Current Age
-     final String Degree="Computer Science and engineering"; //pursuing
-     String[] Learning={"Java","SpringBoot","DSA"};
-     
-     }
-  }
-  ```
  
-
 ## 📫 How to reach me 👨🏻‍💻<br><br><a href="mailto:abdullahfakrudeen2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <h3 align="left">Connect with me 🔗:</h3>
