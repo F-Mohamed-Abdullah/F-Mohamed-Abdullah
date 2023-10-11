@@ -1,7 +1,7 @@
 ![heaader](https://github.com/f-mohamed-abdullah/Student-CRUD/assets/115330277/033d46c4-c938-4adc-b756-e00862ef0782)
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=f-mohamed-abdullah&color=blue" alt="Abu" /></h1> </p>
+
  
 ## 📫 How to reach me 👨🏻‍💻<br><br><a href="mailto:abdullahfakrudeen2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
