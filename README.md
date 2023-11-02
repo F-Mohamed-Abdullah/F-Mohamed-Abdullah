@@ -1,7 +1,4 @@
 
-![5ldgwv](https://github.com/f-mohamed-abdullah/f-mohamed-abdullah/assets/115330277/80269c99-b1eb-4bf4-9656-86752b2ddd96)
-
-
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=f-mohamed-abdullah.f-mohamed-abdullah)
 
