@@ -1,38 +1,20 @@
 
-![header](https://github.com/f-mohamed-abdullah/f-mohamed-abdullah/assets/115330277/615ec5bf-907e-4333-b606-6e42a5f659de)
-
- 
-## 📫 How to reach me 👨🏻‍💻<br><br><a href="mailto:abdullahfakrudeen2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
-<h3 align="left">Connect with me 🔗:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/f-mohamed-abdullah/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=black"></a></p>
-<h3 align="left">Coding Platforms:</h3>
-<p align="left">
-<a href="https://www.hackerrank.com/f___ma?hr_r=1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black"></a>
-<a href="https://www.leetcode.com/f-mohamed-abdullah"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
-<a href="https://auth.geeksforgeeks.org/user/fmohamedabdullah"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=black"></a>
-</p>
-
-<h3 align="left">Languages:</h3>
-<p align="left">
-     <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50" >
-     <img src="https://cdn-icons-png.flaticon.com/512/3665/3665923.png" width="50">
-     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="50">
-     <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="50">
-     <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="50">
+![5ldgwv](https://github.com/f-mohamed-abdullah/f-mohamed-abdullah/assets/115330277/80269c99-b1eb-4bf4-9656-86752b2ddd96)
 
 
 
-</p>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=f-mohamed-abdullah.f-mohamed-abdullah)
 
+
+<!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=f-mohamed-abdullah&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<!--<hr>
+<hr>
 <p align="center">
      <a href="https://www.linkedin.com/in/f-mohamed-abdullah/">
           <img src="https://raw.githubusercontent.com/vhanla/vhanla/master/.gitassets/walkingmario.gif"></a>
 </p>
-<hr>-->
+<hr>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+-->
