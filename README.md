@@ -1,7 +1,5 @@
-[![An image of @fmohamedabdullah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fmohamedabdullah)](https://holopin.io/@fmohamedabdullah)
 
-
-
+![header](https://github.com/f-mohamed-abdullah/f-mohamed-abdullah/assets/115330277/615ec5bf-907e-4333-b606-6e42a5f659de)
 
  
 ## 📫 How to reach me 👨🏻‍💻<br><br><a href="mailto:abdullahfakrudeen2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
