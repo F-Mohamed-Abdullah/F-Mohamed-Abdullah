@@ -1,6 +1,5 @@
 
-![pepe](https://github.com/mdxabu/mdxabu/assets/115330277/62a71a16-4343-4772-a7cb-1c57c482fbd6)
-
+![pepe-the-frog-gif-12](https://github.com/mdxabu/mdxabu/assets/115330277/42d46a88-7061-490d-873b-3536b86ad65a)
 
 
 # [Connect with me 💬](https://bio.link/mdxabu)
