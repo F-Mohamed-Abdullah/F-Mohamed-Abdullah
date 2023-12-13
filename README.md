@@ -3,4 +3,5 @@
 -->
 
 # [Connect with me 💬](https://bio.link/mdxabu)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=mdxabu.mdxabu)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mdxabu.mdxabu) <br>
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/abustwt)
