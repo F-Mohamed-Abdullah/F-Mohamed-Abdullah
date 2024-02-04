@@ -3,4 +3,4 @@
 -->
 
 # [Connect with me 💬](https://www.linkedin.com/in/f-abdullah/)
-![:mdxabu](https://count.getloli.com/get/@:mdxabu)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mdxabu.mdxabu)
