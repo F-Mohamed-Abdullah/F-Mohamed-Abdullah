@@ -6,7 +6,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mdxabu.mdxabu)
 
 # Skills & Tools
-[![My Skills](https://skillicons.dev/icons?i=java,maven,mysql,linux,git,github,idea,vscode,ubuntu&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,maven,mysql,linux,git,github,idea,vscode,ubuntu&theme=dark)](https://twitter.com/mdxabu)
 
 
 [![mdxabu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mdxabu&bg_color=121212&color=fcfcfc&line=00ff33&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
