@@ -3,7 +3,7 @@
 -->
 
 # [Connect with me](https://twitter.com/mdxabu)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=mdxabu.mdxabu)
+<!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=mdxabu.mdxabu)-->
 
 <!--# Skills & Tools
 [![My Skills](https://skillicons.dev/icons?i=java,maven,mysql,linux,git,github,idea,vscode,ubuntu&theme=dark)](https://twitter.com/mdxabu)
