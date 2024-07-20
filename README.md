@@ -1,4 +1,4 @@
-[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
+
 
 # [Connect with me](https://twitter.com/mdxabu)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mdxabu.mdxabu)
